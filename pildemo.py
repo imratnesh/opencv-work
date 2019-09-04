@@ -16,3 +16,4 @@ img.thumbnail(size_80)
 #img.save('./images/thumb_80.png')
 
 img.show()
+
